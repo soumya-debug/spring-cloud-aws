@@ -1,8 +1,12 @@
-# spring-cloud-aws
-Deployed my Spring Boot application on Cloud.
-1. Create a spring application in eclipse.
-2. Run MAVEN COMMAND - mvn compile
-                     - mvn clean install
+# Spring Cloud AWS - Deploying a Spring Boot Application on AWS
+
+## Prerequisites
+
+- [Eclipse IDE](https://www.eclipse.org/ide/) installed.
+- Run the following Maven commands to compile and package your application:
+  ```bash
+  mvn compile
+  mvn clean install
 3. The jar file will be created inside target file
 4. Login to your amazon aws console.
 5. Create a s3 bucket.
