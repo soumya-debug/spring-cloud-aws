@@ -30,4 +30,4 @@ ls;
 java -jar <copy the jar file shown in the previous command>
 ```
 - Spring initialization will happen on your Amazon Linux 2023 terminal.
-- Then type the <Address Public IPv4 DNS>:8080 to open your application.
+- Then type the Public-IPv4-DNS:8080 to open your application.
