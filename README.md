@@ -18,15 +18,15 @@
 - After successfull configuration check the status running.
 - Then tap on connect to open the EC2 instance connect (Amazon Linux 2023)
 ```bash
-aws s3 ls;
-ls;
+aws s3 ls
+ls
 ```
 - Configure the IAM by modifyinh it.
 ```
 java -v
 sudo yum install java-1.8.0
 sudo alternatives --config java
-ls;
+ls
 java -jar <copy the jar file shown in the previous command>
 ```
 - Spring initialization will happen on your Amazon Linux 2023 terminal.
