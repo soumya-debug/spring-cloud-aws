@@ -26,6 +26,7 @@ ls
 java -v
 sudo yum install java-1.8.0
 sudo alternatives --config java
+aws ls cp <copy the jar file>
 ls
 java -jar <copy the jar file shown in the previous command>
 ```
